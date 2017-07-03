@@ -1,0 +1,7 @@
+To compile the triplet distance type:
+
+g++ -O3 -std=c++11 -o CacheTD main.cpp
+
+To compute the triplet distance of these two binary trees type:
+
+./CacheTD 1.txt 2.txt
